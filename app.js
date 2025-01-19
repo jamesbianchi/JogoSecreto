@@ -6,7 +6,7 @@
 //paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 let listaNumerosSecretos = [];
-let totalDeNumerosSecretosGerados = 100;
+let totalDeNumerosSecretosGerados = 50;
 let numeroAleatorio = numeroSecreto();
 let tentativas = 1;
 exibirMensagemNaTela();
